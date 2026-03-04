@@ -9,9 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
+A bunch of AND, OR and NOT gate connected to the inputs to give a random output
+
 Explain how your project works
 
 ## How to test
+
+It works if it works
 
 Explain how to use your project
 
