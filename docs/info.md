@@ -21,4 +21,5 @@ Explain how to use your project
 
 ## External hardware
 
+NOTHING SO FAR
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
